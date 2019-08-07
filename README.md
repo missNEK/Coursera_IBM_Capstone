@@ -1,2 +1,2 @@
-# Coursera_capstone_2
-Coursera_capstone_2
+The notebook has been created mainly for the capstone project.
+IBM Applied Data Science course.
